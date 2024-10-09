@@ -1,4 +1,30 @@
+Project Definition: Quantum Key Distribution Using Photons
+Objective:
+The goal of this project is to explore and simulate the principles of Quantum Key Distribution (QKD) using photons as a means to securely exchange encryption keys. The project will focus on simulating QKD protocols, addressing practical challenges of long-distance implementation, and investigating how QKD can be integrated into modern telecom infrastructure for secure communication.
 
+Key Areas of Focus:
+Simulation of QKD Systems:
+
+Simulate the transmission and detection of photon states (polarization or entanglement) as part of QKD protocols.
+Analyze how changes in these quantum states affect the security of the key exchange process.
+Use simulation tools to demonstrate how eavesdropping attempts can be detected based on alterations to the photon states.
+Research on Practical Challenges:
+
+Investigate the effects of photon loss and errors in photon detection during long-distance communication.
+Explore solutions to these challenges, such as quantum repeaters, and their role in extending the transmission range of QKD systems.
+Integration into Telecom Infrastructure:
+
+Explore how QKD could be deployed alongside classical telecommunications infrastructure (fiber-optic networks, satellite communications).
+Assess the potential benefits and limitations of integrating QKD for secure communication in modern industries.
+Core Components:
+QKD Protocols:
+Implement and simulate two key protocols: the BB84 protocol (using polarized photons) and the E91 protocol (using quantum entanglement).
+Photon State Simulation:
+Simulate the behavior of photon states during transmission, focusing on their security properties (i.e., how quantum mechanics guarantees the detection of eavesdropping).
+Challenges and Solutions:
+Investigate the real-world issues of photon loss, error rates, and the limitations of current detection systems, as well as potential mitigation strategies.
+Telecom Integration:
+Analyze the compatibility of QKD with existing telecommunications infrastructure and explore case studies or trials (e.g., quantum satellites or quantum repeaters).
 
 
 
