@@ -1,6 +1,8 @@
 Project Definition: Quantum Key Distribution Using Photons
 Objective:
-The goal of this project is to explore and simulate the principles of Quantum Key Distribution (QKD) using photons as a means to securely exchange encryption keys. The project will focus on simulating QKD protocols, addressing practical challenges of long-distance implementation, and investigating how QKD can be integrated into modern telecom infrastructure for secure communication.
+The goal of this project is to explore and simulate the principles of Quantum Key Distribution (QKD) using photons as a means to securely exchange encryption keys. 
+The project will focus on simulating QKD protocols, addressing practical challenges of long-distance implementation, 
+and investigating how QKD can be integrated into modern telecom infrastructure for secure communication.
 
 Key Areas of Focus:
 Simulation of QKD Systems:
