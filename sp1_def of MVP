@@ -1,1 +1,32 @@
+   - **BB84 Protocol Simulation**:
+     - Simulate the process of encoding and transmitting quantum bits (qubits) using polarized photons.
+     - Include basic error checking and key sifting processes to demonstrate how secure keys are generated.
+     - Visualize the impact of eavesdropping on photon states.
+      
+   - **Visualization of Photon States**:
+     - Simple visualization of photon states (polarization changes or entanglement) during transmission.
+     - Show how measurements or interference from eavesdropping alter the photon states.
 
+   - **Photon Loss Simulation**:
+     - Model basic photon loss over varying distances in a fiber-optic channel or free-space transmission.
+     - Demonstrate how increasing distance affects the success rate of key exchange.
+
+   - **Detection Error Simulation**:
+     - Model the impact of detection errors (e.g., dark counts or inefficiencies) on the security of the key exchange process.
+     - Simulate how noise or external factors affect key security.
+
+   - **Basic User Interface**:
+     - A simple and intuitive interface where users (researchers, students) can adjust parameters like distance, noise level, and detection efficiency.
+     - Display key generation outcomes (e.g., success rate, error rate, and key security) in an easy-to-understand format.
+
+   - **Distance and Infrastructure Impact**:
+     - Provide basic insights into how photon loss and detection errors affect QKD transmission over fiber-optic cables.
+     - Include preliminary recommendations on the need for quantum repeaters and infrastructure upgrades for long-distance QKD.
+
+   - **Basic Error Analysis**:
+     - Show how eavesdropping increases error rates and how this impacts key security.
+     - Include graphs or charts that visualize the relationship between distance, error rates, and security.
+
+   - **Basic Documentation**:
+     - Offer simple explanations and step-by-step guidance for using the simulation tool.
+     - Include a brief introduction to QKD protocols and key principles of quantum cryptography for educational purposes.
