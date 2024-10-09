@@ -1,1 +1,76 @@
+### **1. Cybersecurity Researchers**
+- **User Story 1**: As a cybersecurity researcher, I want to simulate and analyze QKD protocols like BB84 and E91 so that I can understand how quantum cryptography ensures secure key distribution.
+    - **Acceptance Criteria**: 
+        - The system simulates BB84 and E91 protocols with customizable parameters.
+        - A detailed report on how quantum mechanics prevents eavesdropping.
+  
+- **User Story 2**: As a cybersecurity researcher, I want to investigate the limitations of QKD in real-world settings (e.g., noise, photon loss) so that I can evaluate its practicality for deployment.
+    - **Acceptance Criteria**: 
+        - The simulation includes options to model photon loss and noise.
+        - Error rates and their impact on QKD system security are analyzed and visualized.
 
+### **2. Telecommunications Engineers**
+- **User Story 3**: As a telecom engineer, I want to explore how QKD can be integrated with existing fiber-optic networks so that I can evaluate its feasibility for large-scale deployment.
+    - **Acceptance Criteria**: 
+        - The system provides information on the required infrastructure changes to support QKD.
+        - A case study on telecom-QKD integration, including potential costs and technical requirements.
+
+- **User Story 4**: As a telecom engineer, I want to understand the impact of distance on QKD signal reliability so that I can design more effective communication systems for secure long-distance transmission.
+    - **Acceptance Criteria**: 
+        - The system models photon loss over various distances.
+        - Recommendations on the use of quantum repeaters to extend QKD range are provided.
+
+### **3. Quantum Computing and Physics Researchers**
+- **User Story 5**: As a quantum computing researcher, I want to see a detailed simulation of quantum states during QKD transmission (superposition, entanglement) so that I can study how quantum mechanics affects secure communication.
+    - **Acceptance Criteria**: 
+        - Visual representation of quantum states (polarization, entanglement) during key distribution.
+        - Ability to customize and track quantum state changes during the simulation.
+
+- **User Story 6**: As a physics researcher, I want to explore the effects of measurement on photon states in QKD so that I can understand how eavesdropping alters the system.
+    - **Acceptance Criteria**: 
+        - The simulation demonstrates how measurements (eavesdropping attempts) collapse quantum states.
+        - Results show how intrusion affects the error rate and key security.
+
+### **4. Government and Defense Agencies**
+- **User Story 7**: As a government security officer, I want to evaluate the security level of QKD compared to classical encryption techniques so that I can consider its use for classified communication.
+    - **Acceptance Criteria**: 
+        - The system compares QKD with classical encryption methods in terms of security (e.g., resistance to quantum computing attacks).
+        - A report on the potential vulnerabilities of QKD (e.g., side-channel attacks) is available.
+
+- **User Story 8**: As a defense network administrator, I want to explore the scalability of QKD to secure a large-scale communication network so that I can plan for its implementation in national security systems.
+    - **Acceptance Criteria**: 
+        - The system provides scenarios on how QKD can be scaled across multiple communication channels.
+        - Technical requirements for large-scale QKD deployment are outlined.
+
+### **5. Financial Institutions**
+- **User Story 9**: As a banking security officer, I want to understand the potential of QKD in preventing data breaches due to quantum computing so that I can evaluate it as a long-term security solution for financial transactions.
+    - **Acceptance Criteria**: 
+        - The system demonstrates how QKD can protect financial data from quantum attacks.
+        - A report on how QKD could replace or supplement classical cryptographic methods for secure transactions.
+
+- **User Story 10**: As a fintech CTO, I want to explore the cost-effectiveness of integrating QKD with our current security systems so that I can determine if it is a viable solution for our company.
+    - **Acceptance Criteria**: 
+        - The system provides a cost-benefit analysis for QKD integration.
+        - Examples of QKD deployment in the financial sector are given, with real-world case studies.
+
+### **6. Tech Companies (Secure Communication Platforms)**
+- **User Story 11**: As a secure communication platform developer, I want to integrate QKD into my product to offer quantum-safe encryption for our clients so that we can differentiate from competitors.
+    - **Acceptance Criteria**: 
+        - API or guidelines for integrating QKD with existing communication platforms.
+        - The simulation shows how QKD improves security compared to existing classical encryption.
+
+- **User Story 12**: As a product manager for a secure communication platform, I want to explore real-world applications of QKD so that I can evaluate the market potential and user demand for quantum-safe encryption.
+    - **Acceptance Criteria**: 
+        - The system provides examples of QKD use in different industries (government, banking, etc.).
+        - Market research on the adoption of quantum cryptography is included.
+
+### **7. Academia and Educational Institutions**
+- **User Story 13**: As a professor of quantum computing, I want to use the QKD simulation as a teaching tool so that my students can learn how quantum mechanics enables secure communication.
+    - **Acceptance Criteria**: 
+        - The system provides educational simulations with customizable parameters.
+        - A user-friendly interface that allows students to interact with QKD protocols and visualize results.
+
+- **User Story 14**: As a student of cryptography, I want to experiment with QKD protocols to understand how quantum cryptography differs from classical cryptography.
+    - **Acceptance Criteria**: 
+        - The system allows students to simulate different QKD protocols and compare them with classical encryption techniques.
+        - Error rate analysis and eavesdropping detection are included in the experiment.
